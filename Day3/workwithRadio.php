@@ -46,6 +46,7 @@
 //         echo "Make a selection";
 //     }
 // }
+
 // alternative way
 if (isset($_POST["confirm"])){
         $credit_card=null;
